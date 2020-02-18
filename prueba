@@ -1,0 +1,7 @@
+def main():
+ print()
+ names = {'jr':9, 'ungui':10, 'gerry':8, 'amparo':1000}
+ which_one = input()
+ print(which_one + " : " + names[which_one])
+ 
+main()
